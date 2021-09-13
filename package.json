@@ -1,0 +1,21 @@
+{
+  "name": "random-password-generate",
+  "version": "1.0.0",
+  "description": "Random Password Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "alexander397172",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexander397172YT/generate-random-password.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Alexander397172YT/generate-random-password/issues"
+  },
+  "homepage": "https://github.com/Alexander397172YT/generate-random-password#readme",
+  "keywords": ["random", "password", "generator", "generate", "pass"]
+}
